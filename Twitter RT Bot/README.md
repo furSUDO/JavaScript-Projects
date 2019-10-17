@@ -5,11 +5,8 @@ Replace the following '---' with your details:
 
 ```
 consumer_key: '---'
-
 consumer_secret: '---'
-
 ccess_token: '---'
-
 access_token_secret: '---'
 ```
 
