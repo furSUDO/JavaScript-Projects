@@ -13,7 +13,7 @@ var Twitter = new twit({
 
 var retweet = function () {
     var params = {
-        q: '#TwitchZA', 
+        q: '#FurSUDO', 
         result_type: 'recent',
         lang: 'en'
     }
