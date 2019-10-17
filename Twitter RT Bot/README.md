@@ -1,5 +1,5 @@
 # Twitter RT Bot
-A plug and play Twitter Retweet bot!
+#### A plug and play Twitter Retweet bot!
 
 Replace the following '---' with your details:
 
