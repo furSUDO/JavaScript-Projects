@@ -11,3 +11,5 @@ access_token_secret: '---'
 ```
 
 Make sure to have [Node.js](https://nodejs.org/) installed on your system to run the script.
+
+enjoy :+1:
